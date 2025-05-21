@@ -1,0 +1,34 @@
+[00:06:19] [Server thread/INFO]: zedo0800 burned to death
+[00:06:23] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=0, y=0, z=0} ji{x=41, y=77, z=-14}
+[00:06:23] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=0, y=0, z=0} ji{x=41, y=77, z=-15}
+[00:06:24] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=0, y=0, z=0} ji{x=41, y=77, z=-15}
+[00:06:28] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=0, y=0, z=0} ji{x=44, y=68, z=0}
+[00:06:28] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=44, y=68, z=1} ji{x=44, y=68, z=0}
+[00:06:50] [Server thread/INFO]: [Guerra: Teleported zedo0800 to Guerra01]
+[00:08:58] [Server thread/INFO]: zedo0800 lost connection: Disconnected
+[00:08:58] [Server thread/INFO]: zedo0800 left the game
+[00:13:38] [Server thread/INFO]: [Guerra: Gamerule randomTickSpeed is now set to: 5000]
+[00:13:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[00:13:46] [Server thread/INFO]: [Guerra: Gamerule randomTickSpeed is now set to: 1]
+[00:18:10] [Server thread/INFO]: [Guerra: Teleported Guerra01 to Guerra]
+[00:18:30] [Server thread/INFO]: [Guerra: Teleported Guerra01 to gustavobaludo]
+[00:19:08] [Server thread/INFO]: [Guerra: Teleported Guerra01 to Guerra]
+[00:19:19] [Server thread/INFO]: [Guerra: Teleported Guerra01 to Guerra]
+[00:19:21] [Server thread/INFO]: [Guerra: Teleported Guerra01 to gustavobaludo]
+[00:22:14] [Server thread/INFO]: [Guerra: Teleported Guerra01 to Guerra]
+[00:22:23] [Server thread/INFO]: [Guerra: Teleported Guerra01 to gustavobaludo]
+[00:24:27] [Server thread/INFO]: Guerra01 lost connection: Disconnected
+[00:24:27] [Server thread/INFO]: Guerra01 left the game
+[00:24:37] [Server thread/INFO]: Guerra01[/26.222.123.117:62384] logged in with entity id 540019 at (759.3000000119209, 82.5625, 26.912400644862757)
+[00:24:37] [Server thread/INFO]: Guerra01 joined the game
+[00:28:51] [Server thread/INFO]: Guerra lost connection: Disconnected
+[00:28:51] [Server thread/INFO]: Guerra left the game
+[00:28:57] [Server thread/INFO]: Guerra01 lost connection: Disconnected
+[00:28:57] [Server thread/INFO]: Guerra01 left the game
+[00:31:39] [Server thread/INFO]: gustavobaludo lost connection: Disconnected
+[00:31:39] [Server thread/INFO]: gustavobaludo left the game
+[00:32:39] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[00:33:24] [Server thread/INFO]: Guerra[/26.222.123.117:62797] logged in with entity id 541665 at (362.5334450556189, 92.0, 1.3689975897533602)
+[00:33:24] [Server thread/INFO]: Guerra joined the game
+[00:33:33] [Server thread/INFO]: Guerra lost connection: Disconnected
+[00:33:33] [Server thread/INFO]: Guerra left the game
