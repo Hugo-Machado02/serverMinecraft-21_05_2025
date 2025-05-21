@@ -1,34 +1,23 @@
-[00:06:19] [Server thread/INFO]: zedo0800 burned to death
-[00:06:23] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=0, y=0, z=0} ji{x=41, y=77, z=-14}
-[00:06:23] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=0, y=0, z=0} ji{x=41, y=77, z=-15}
-[00:06:24] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=0, y=0, z=0} ji{x=41, y=77, z=-15}
-[00:06:28] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=0, y=0, z=0} ji{x=44, y=68, z=0}
-[00:06:28] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=44, y=68, z=1} ji{x=44, y=68, z=0}
-[00:06:50] [Server thread/INFO]: [Guerra: Teleported zedo0800 to Guerra01]
-[00:08:58] [Server thread/INFO]: zedo0800 lost connection: Disconnected
-[00:08:58] [Server thread/INFO]: zedo0800 left the game
-[00:13:38] [Server thread/INFO]: [Guerra: Gamerule randomTickSpeed is now set to: 5000]
-[00:13:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
-[00:13:46] [Server thread/INFO]: [Guerra: Gamerule randomTickSpeed is now set to: 1]
-[00:18:10] [Server thread/INFO]: [Guerra: Teleported Guerra01 to Guerra]
-[00:18:30] [Server thread/INFO]: [Guerra: Teleported Guerra01 to gustavobaludo]
-[00:19:08] [Server thread/INFO]: [Guerra: Teleported Guerra01 to Guerra]
-[00:19:19] [Server thread/INFO]: [Guerra: Teleported Guerra01 to Guerra]
-[00:19:21] [Server thread/INFO]: [Guerra: Teleported Guerra01 to gustavobaludo]
-[00:22:14] [Server thread/INFO]: [Guerra: Teleported Guerra01 to Guerra]
-[00:22:23] [Server thread/INFO]: [Guerra: Teleported Guerra01 to gustavobaludo]
-[00:24:27] [Server thread/INFO]: Guerra01 lost connection: Disconnected
-[00:24:27] [Server thread/INFO]: Guerra01 left the game
-[00:24:37] [Server thread/INFO]: Guerra01[/26.222.123.117:62384] logged in with entity id 540019 at (759.3000000119209, 82.5625, 26.912400644862757)
-[00:24:37] [Server thread/INFO]: Guerra01 joined the game
-[00:28:51] [Server thread/INFO]: Guerra lost connection: Disconnected
-[00:28:51] [Server thread/INFO]: Guerra left the game
-[00:28:57] [Server thread/INFO]: Guerra01 lost connection: Disconnected
-[00:28:57] [Server thread/INFO]: Guerra01 left the game
-[00:31:39] [Server thread/INFO]: gustavobaludo lost connection: Disconnected
-[00:31:39] [Server thread/INFO]: gustavobaludo left the game
-[00:32:39] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[00:33:24] [Server thread/INFO]: Guerra[/26.222.123.117:62797] logged in with entity id 541665 at (362.5334450556189, 92.0, 1.3689975897533602)
-[00:33:24] [Server thread/INFO]: Guerra joined the game
-[00:33:33] [Server thread/INFO]: Guerra lost connection: Disconnected
-[00:33:33] [Server thread/INFO]: Guerra left the game
+[00:46:03] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:46:05] [ServerMain/INFO]: Loaded 1370 recipes
+[00:46:05] [ServerMain/INFO]: Loaded 1481 advancements
+[00:46:05] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[00:46:05] [Server thread/INFO]: Loading properties
+[00:46:05] [Server thread/INFO]: Default game type: SURVIVAL
+[00:46:05] [Server thread/INFO]: Generating keypair
+[00:46:05] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:46:05] [Server thread/INFO]: Using default channel type
+[00:46:06] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:46:06] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:46:06] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:46:06] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:46:06] [Server thread/INFO]: Preparing level "world"
+[00:46:06] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:46:06] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[00:46:06] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[00:46:07] [Server thread/INFO]: Time elapsed: 791 ms
+[00:46:07] [Server thread/INFO]: Done (0.997s)! For help, type "help"
+[00:46:23] [Server thread/INFO]: gustavobaludo[/26.3.130.57:59325] logged in with entity id 9 at (785.1479690522983, 83.0, -29.857010293991987)
+[00:46:23] [Server thread/INFO]: gustavobaludo joined the game
+[00:47:01] [Server thread/INFO]: gustavobaludo lost connection: Disconnected
+[00:47:01] [Server thread/INFO]: gustavobaludo left the game
