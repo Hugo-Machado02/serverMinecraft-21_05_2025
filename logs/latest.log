@@ -1,23 +1,377 @@
-[00:46:03] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[00:46:05] [ServerMain/INFO]: Loaded 1370 recipes
-[00:46:05] [ServerMain/INFO]: Loaded 1481 advancements
-[00:46:05] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[00:46:05] [Server thread/INFO]: Loading properties
-[00:46:05] [Server thread/INFO]: Default game type: SURVIVAL
-[00:46:05] [Server thread/INFO]: Generating keypair
-[00:46:05] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:46:05] [Server thread/INFO]: Using default channel type
-[00:46:06] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:46:06] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:46:06] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:46:06] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:46:06] [Server thread/INFO]: Preparing level "world"
-[00:46:06] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:46:06] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[00:46:06] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[00:46:07] [Server thread/INFO]: Time elapsed: 791 ms
-[00:46:07] [Server thread/INFO]: Done (0.997s)! For help, type "help"
-[00:46:23] [Server thread/INFO]: gustavobaludo[/26.3.130.57:59325] logged in with entity id 9 at (785.1479690522983, 83.0, -29.857010293991987)
-[00:46:23] [Server thread/INFO]: gustavobaludo joined the game
-[00:47:01] [Server thread/INFO]: gustavobaludo lost connection: Disconnected
-[00:47:01] [Server thread/INFO]: gustavobaludo left the game
+[00:01:09] [Server thread/INFO]: [Guerra: Teleported Guerra to 777.500000, 200.000000, 0.500000]
+[00:01:20] [Server thread/INFO]: [Guerra: Set the time to 1000]
+[00:02:00] [Server thread/INFO]: [Guerra: Teleported Guerra to Shanks02]
+[00:03:07] [Server thread/INFO]: Kaik has made the advancement [Enchanter]
+[00:08:08] [Server thread/INFO]: [Guerra: Teleported Shanks02 to Guerra]
+[00:09:03] [Server thread/INFO]: [Guerra: Teleported Guerra to 777.500000, 200.000000, 0.500000]
+[00:10:21] [Server thread/INFO]: Villager coj['Villager'/1186568, l='ServerLevel[world]', x=709.51, y=86.30, z=27.40] died, message: 'Villager was slain by Fulano'
+[00:11:57] [Server thread/INFO]: Villager coj['Villager'/1186565, l='ServerLevel[world]', x=724.36, y=86.00, z=24.62] died, message: 'Villager was shot by Guerra'
+[00:11:59] [Server thread/INFO]: Villager coj['Villager'/1186569, l='ServerLevel[world]', x=721.83, y=87.00, z=23.54] died, message: 'Villager was shot by Guerra'
+[00:12:06] [Server thread/INFO]: Villager coj['Villager'/1186570, l='ServerLevel[world]', x=712.50, y=86.00, z=24.85] died, message: 'Villager was shot by Guerra'
+[00:12:07] [Server thread/INFO]: Villager coj['Villager'/1186571, l='ServerLevel[world]', x=712.50, y=86.00, z=24.85] died, message: 'Villager was shot by Guerra'
+[00:12:09] [Server thread/INFO]: Villager coj['Villager'/1186567, l='ServerLevel[world]', x=714.50, y=86.00, z=24.85] died, message: 'Villager was shot by Guerra'
+[00:12:53] [Server thread/INFO]: Villager coj['Villager'/1186566, l='ServerLevel[world]', x=709.55, y=86.34, z=27.79] died, message: 'Villager was slain by Fulano'
+[00:13:34] [Server thread/INFO]: Villager coj['Villager'/1186563, l='ServerLevel[world]', x=709.69, y=86.52, z=28.00] died, message: 'Villager was slain by Fulano'
+[00:13:36] [Server thread/INFO]: Villager coj['Villager'/1186562, l='ServerLevel[world]', x=710.70, y=86.56, z=27.30] died, message: 'Villager was slain by Zombie Villager'
+[00:13:43] [Server thread/INFO]: Villager coj['Villager'/1186561, l='ServerLevel[world]', x=709.54, y=86.28, z=27.30] died, message: 'Villager was slain by Zombie Villager'
+[00:13:49] [Server thread/INFO]: Villager coj['Villager'/1186564, l='ServerLevel[world]', x=710.41, y=86.03, z=27.30] died, message: 'Villager was slain by Zombie Villager'
+[00:13:50] [Server thread/INFO]: Villager coj['Villager'/1186572, l='ServerLevel[world]', x=708.85, y=86.96, z=27.15] died, message: 'Villager was slain by Fulano'
+[00:13:54] [Server thread/INFO]: Villager coj['Villager'/1186560, l='ServerLevel[world]', x=708.93, y=86.05, z=27.30] died, message: 'Villager was slain by Zombie Villager'
+[00:14:54] [Server thread/INFO]: [Guerra: Set the time to 1000]
+[00:15:39] [Server thread/INFO]: Shanks02 lost connection: Disconnected
+[00:15:39] [Server thread/INFO]: Shanks02 left the game
+[00:17:37] [Server thread/INFO]: Shanks02[/26.19.136.141:60830] logged in with entity id 1192887 at (1982.5893333524402, 233.125, -951.2657329964607)
+[00:17:37] [Server thread/INFO]: Shanks02 joined the game
+[00:18:11] [Server thread/INFO]: [Guerra: Teleported Guerra to Shanks02]
+[00:18:34] [Server thread/INFO]: [Guerra: Teleported Shanks02 to Guerra]
+[00:18:39] [Server thread/INFO]: [Guerra: Teleported Guerra to 777.500000, 200.000000, 0.500000]
+[00:19:29] [Server thread/INFO]: [Guerra: Teleported Guerra to Shanks02]
+[00:21:10] [Server thread/INFO]: [Guerra: Teleported Guerra to 777.500000, 200.000000, 0.500000]
+[00:26:19] [Server thread/INFO]: [Guerra: Set the time to 1000]
+[00:30:05] [Server thread/INFO]: Shanks02 lost connection: Disconnected
+[00:30:05] [Server thread/INFO]: Shanks02 left the game
+[00:30:36] [Server thread/INFO]: Shanks02[/26.19.136.141:60869] logged in with entity id 1201806 at (1981.9780266703542, 233.125, -951.6256134164164)
+[00:30:36] [Server thread/INFO]: Shanks02 joined the game
+[00:35:16] [Server thread/INFO]: Kaik has made the advancement [Take Aim]
+[00:35:58] [Server thread/INFO]: [Guerra: Set the weather to clear]
+[00:37:14] [Server thread/INFO]: [Guerra: Set the time to 1000]
+[00:38:04] [Server thread/INFO]: [Guerra: Gamerule randomTickSpeed is now set to: 5000]
+[00:38:06] [Server thread/INFO]: Kaik lost connection: Disconnected
+[00:38:06] [Server thread/INFO]: Kaik left the game
+[00:38:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2230ms or 44 ticks behind
+[00:38:29] [Server thread/INFO]: [Guerra: Gamerule randomTickSpeed is now set to: 1]
+[00:38:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11107ms or 222 ticks behind
+[00:39:31] [Server thread/INFO]: Kaik[/26.202.135.141:58270] logged in with entity id 1207019 at (792.4228400553424, 90.0, -29.089317585730658)
+[00:39:31] [Server thread/INFO]: Kaik joined the game
+[00:42:54] [Server thread/INFO]: [Guerra: Teleported Guerra to Shanks02]
+[00:43:07] [Server thread/INFO]: Shanks02 has made the advancement [Hot Stuff]
+[00:46:16] [Server thread/INFO]: [Guerra: Teleported Guerra to 777.500000, 200.000000, 0.500000]
+[00:46:56] [Server thread/INFO]: [Guerra: Teleported Kaik to Guerra]
+[00:47:10] [Server thread/INFO]: Villager coj['Villager'/1191369, l='ServerLevel[world]', x=708.93, y=86.05, z=27.30] died, message: 'Villager was slain by Ciclano'
+[00:47:20] [Server thread/INFO]: Villager coj['Villager'/1191475, l='ServerLevel[world]', x=709.63, y=86.00, z=27.36] died, message: 'Villager was slain by Ciclano'
+[00:47:27] [Server thread/INFO]: Villager coj['Villager'/1196634, l='ServerLevel[world]', x=709.30, y=86.47, z=28.56] died, message: 'Villager was slain by Zombie Villager'
+[00:47:30] [Server thread/INFO]: Villager coj['Villager'/1186594, l='ServerLevel[world]', x=709.46, y=86.00, z=27.36] died, message: 'Villager was slain by Fulano'
+[00:47:32] [Server thread/INFO]: Villager coj['Villager'/1186595, l='ServerLevel[world]', x=709.38, y=86.00, z=28.26] died, message: 'Villager was slain by Ciclano'
+[00:48:45] [Server thread/INFO]: [Guerra: Set the time to 1000]
+[00:50:16] [Server thread/INFO]: [Guerra: Set the time to 1000]
+[00:50:23] [Server thread/INFO]: [Guerra: Set the weather to clear]
+[00:52:50] [Server thread/INFO]: Kaik has reached the goal [Zombie Doctor]
+[00:54:26] [Server thread/INFO]: Shanks02 lost connection: Disconnected
+[00:54:26] [Server thread/INFO]: Shanks02 left the game
+[00:55:54] [Server thread/INFO]: Shanks02[/26.19.136.141:60931] logged in with entity id 1217919 at (1982.2746855558462, 235.0, -952.1026342948497)
+[00:55:54] [Server thread/INFO]: Shanks02 joined the game
+[01:00:32] [Server thread/INFO]: [Guerra: Set the time to 1000]
+[01:01:12] [Server thread/INFO]: [Guerra: Teleported Shanks02 to Kaik]
+[01:01:22] [Server thread/INFO]: Shanks02 has made the advancement [Cover Me with Diamonds]
+[01:02:32] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=789, y=82, z=-39} ji{x=789, y=83, z=-39}
+[01:02:32] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=789, y=82, z=-39} ji{x=789, y=83, z=-39}
+[01:04:35] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=251, y=94, z=-116} ji{x=251, y=95, z=-114}
+[01:04:35] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=251, y=94, z=-116} ji{x=251, y=95, z=-114}
+[01:04:35] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=251, y=94, z=-116} ji{x=251, y=95, z=-114}
+[01:06:22] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=157, y=99, z=-120} ji{x=157, y=97, z=-120}
+[01:06:22] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=157, y=99, z=-120} ji{x=157, y=96, z=-120}
+[01:07:36] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=157, y=99, z=-120} ji{x=94, y=102, z=-101}
+[01:07:36] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=157, y=99, z=-120} ji{x=94, y=101, z=-101}
+[01:07:37] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=94, y=100, z=-101} ji{x=94, y=99, z=-101}
+[01:07:37] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=94, y=98, z=-101} ji{x=94, y=99, z=-101}
+[01:07:37] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=94, y=97, z=-101} ji{x=94, y=98, z=-101}
+[01:12:55] [Server thread/INFO]: Shanks02 lost connection: Disconnected
+[01:12:55] [Server thread/INFO]: Shanks02 left the game
+[01:13:50] [Server thread/INFO]: [Guerra: Set the time to 1000]
+[01:14:47] [Server thread/INFO]: Shanks02[/26.19.136.141:60958] logged in with entity id 1225772 at (790.2500278348939, 83.0, -38.492492989095844)
+[01:14:47] [Server thread/INFO]: Shanks02 joined the game
+[01:19:16] [Server thread/INFO]: Shanks02 lost connection: Disconnected
+[01:19:16] [Server thread/INFO]: Shanks02 left the game
+[01:20:23] [Server thread/INFO]: Shanks02[/26.19.136.141:60971] logged in with entity id 1228823 at (793.315719121091, 83.0, -37.30000001192093)
+[01:20:23] [Server thread/INFO]: Shanks02 joined the game
+[01:26:47] [Server thread/INFO]: Guerra02 was slain by Phantom
+[01:26:58] [Server thread/INFO]: [Guerra: Set the time to 1000]
+[01:27:16] [Server thread/INFO]: [Guerra: Teleported Guerra02 to Shanks02]
+[01:27:50] [Server thread/INFO]: Guerra02 has made the advancement [We Need to Go Deeper]
+[01:28:06] [Server thread/INFO]: Guerra02 was doomed to fall by Piglin
+[01:28:12] [Server thread/INFO]: [Guerra: Teleported Guerra02 to Shanks02]
+[01:28:31] [Server thread/INFO]: Guerra02 has made the advancement [Acquire Hardware]
+[01:30:10] [Server thread/INFO]: Guerra02 fell from a high place
+[01:31:21] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=307, y=96, z=70} ji{x=307, y=96, z=69}
+[01:38:03] [Server thread/INFO]: [Guerra: Set the time to 1000]
+[01:40:16] [Server thread/INFO]: [Guerra: Teleported Guerra02 to 1984.500000, 240.000000, -948.500000]
+[01:40:39] [Server thread/INFO]: [Guerra: Teleported Guerra02 to Guerra]
+[01:48:15] [Server thread/INFO]: [Guerra: Set the time to 1000]
+[01:49:17] [Server thread/INFO]: Kaik lost connection: Disconnected
+[01:49:17] [Server thread/INFO]: Kaik left the game
+[01:55:41] [Server thread/INFO]: Guerra02 has reached the goal [Sky's the Limit]
+[01:55:51] [Server thread/INFO]: Shanks02 has reached the goal [Sky's the Limit]
+[01:57:29] [Server thread/INFO]: Shanks02 lost connection: Disconnected
+[01:57:29] [Server thread/INFO]: Shanks02 left the game
+[02:02:58] [Server thread/INFO]: [Guerra: Set the weather to clear]
+[02:09:02] [Server thread/INFO]: [Guerra: Teleported Guerra02 to Guerra]
+[02:12:18] [Server thread/INFO]: [Guerra: Teleported Guerra to 777.500000, 200.000000, 0.500000]
+[02:13:36] [Server thread/INFO]: [Guerra: Teleported Guerra to Guerra02]
+[02:15:54] [Server thread/INFO]: [Guerra: Teleported Guerra to 777.500000, 200.000000, 0.500000]
+[02:16:42] [Server thread/INFO]: [Guerra: Teleported Guerra to Guerra02]
+[02:18:28] [Server thread/INFO]: Guerra02 has made the advancement [Sweet Dreams]
+[02:19:40] [Server thread/INFO]: [Guerra: Teleported Guerra to Guerra02]
+[02:54:11] [Server thread/INFO]: [Guerra: Teleported Guerra to 777.500000, 200.000000, 0.500000]
+[02:57:05] [Server thread/INFO]: [Guerra: Teleported Guerra to Guerra02]
+[03:03:34] [Server thread/INFO]: [Guerra: Teleported Guerra to 777.500000, 200.000000, 0.500000]
+[03:10:07] [Server thread/INFO]: [Guerra: Gamerule randomTickSpeed is now set to: 5000]
+[03:10:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2071ms or 41 ticks behind
+[03:10:22] [Server thread/INFO]: [Guerra: Gamerule randomTickSpeed is now set to: 1]
+[03:17:47] [Server thread/INFO]: [Guerra: Set the time to 18000]
+[03:21:20] [Server thread/INFO]: [Guerra: Set the time to 1000]
+[03:31:23] [Server thread/INFO]: [Guerra: Set own game mode to Spectator Mode]
+[03:31:49] [Server thread/INFO]: [Guerra: Set own game mode to Survival Mode]
+[03:31:50] [Server thread/INFO]: [Guerra: Set own game mode to Spectator Mode]
+[03:32:00] [Server thread/INFO]: [Guerra: Set own game mode to Survival Mode]
+[03:32:03] [Server thread/INFO]: [Guerra: Set own game mode to Spectator Mode]
+[03:33:01] [Server thread/INFO]: [Guerra: Set own game mode to Survival Mode]
+[03:33:07] [Server thread/INFO]: [Guerra: Set own game mode to Spectator Mode]
+[03:33:26] [Server thread/INFO]: [Guerra: Set own game mode to Survival Mode]
+[03:33:39] [Server thread/INFO]: [Guerra: Set own game mode to Spectator Mode]
+[03:33:45] [Server thread/INFO]: [Guerra: Set own game mode to Survival Mode]
+[03:33:50] [Server thread/INFO]: [Guerra: Set own game mode to Spectator Mode]
+[03:34:17] [Server thread/INFO]: [Guerra: Set own game mode to Survival Mode]
+[03:34:23] [Server thread/INFO]: [Guerra: Set own game mode to Spectator Mode]
+[03:34:32] [Server thread/INFO]: [Guerra: Set own game mode to Survival Mode]
+[03:34:39] [Server thread/INFO]: [Guerra: Set own game mode to Spectator Mode]
+[03:34:47] [Server thread/INFO]: [Guerra: Set own game mode to Survival Mode]
+[03:36:13] [Server thread/INFO]: [Guerra: Set own game mode to Spectator Mode]
+[03:36:24] [Server thread/INFO]: [Guerra: Set own game mode to Survival Mode]
+[03:36:32] [Server thread/INFO]: [Guerra: Set own game mode to Spectator Mode]
+[03:36:50] [Server thread/INFO]: [Guerra: Set own game mode to Survival Mode]
+[03:37:14] [Server thread/INFO]: [Guerra: Set own game mode to Spectator Mode]
+[03:37:24] [Server thread/INFO]: [Guerra: Set own game mode to Survival Mode]
+[03:37:28] [Server thread/INFO]: [Guerra: Set own game mode to Spectator Mode]
+[03:37:46] [Server thread/INFO]: [Guerra: Teleported Guerra to 777.500000, 200.000000, 0.500000]
+[03:37:49] [Server thread/INFO]: [Guerra: Set own game mode to Survival Mode]
+[03:55:18] [Server thread/INFO]: [Guerra: Marked chunk [80, -14] in minecraft:overworld to be force loaded]
+[03:55:36] [Server thread/INFO]: [Guerra: Marked chunk [79, -14] in minecraft:overworld to be force loaded]
+[03:55:44] [Server thread/INFO]: [Guerra: Marked chunk [80, -15] in minecraft:overworld to be force loaded]
+[03:55:51] [Server thread/INFO]: [Guerra: Marked chunk [81, -14] in minecraft:overworld to be force loaded]
+[03:56:00] [Server thread/INFO]: [Guerra: Marked chunk [80, -13] in minecraft:overworld to be force loaded]
+[03:56:11] [Server thread/INFO]: [Guerra: Teleported Guerra to Guerra01]
+[03:56:20] [Server thread/INFO]: [Guerra: Marked chunk [15, -8] in minecraft:the_nether to be force loaded]
+[03:56:29] [Server thread/INFO]: [Guerra: Teleported Guerra to Guerra02]
+[03:56:45] [Server thread/INFO]: [Guerra: Marked chunk [123, -60] in minecraft:overworld to be force loaded]
+[03:56:50] [Server thread/INFO]: [Guerra: Marked chunk [124, -60] in minecraft:overworld to be force loaded]
+[03:58:35] [Server thread/INFO]: Guerra01 lost connection: Disconnected
+[03:58:35] [Server thread/INFO]: Guerra01 left the game
+[03:59:32] [Server thread/INFO]: Guerra01[/26.222.123.117:20913] logged in with entity id 1327308 at (249.26198596963383, 250.0, -119.6808641963288)
+[03:59:32] [Server thread/INFO]: Guerra01 joined the game
+[04:00:14] [Server thread/INFO]: [Guerra: Teleported Guerra to Guerra01]
+[04:00:37] [Server thread/INFO]: [Guerra: Unmarked chunk [15, -8] in minecraft:the_nether for force loading]
+[04:00:45] [Server thread/INFO]: [Guerra: Marked chunk [15, -8] in minecraft:the_nether to be force loaded]
+[04:02:53] [Server thread/INFO]: [Guerra: Unmarked all force loaded chunks in minecraft:the_nether]
+[04:05:12] [Server thread/INFO]: [Guerra: Marked chunk [0, -1] in minecraft:the_nether to be force loaded]
+[04:05:20] [Server thread/INFO]: [Guerra: Teleported Guerra to Guerra02]
+[04:05:22] [Server thread/INFO]: Guerra01 lost connection: Disconnected
+[04:05:22] [Server thread/INFO]: Guerra01 left the game
+[04:09:54] [Server thread/INFO]: [Guerra: Unmarked all force loaded chunks in minecraft:overworld]
+[04:10:07] [Server thread/INFO]: Guerra01[/26.222.123.117:21251] logged in with entity id 1330377 at (249.52224510903886, 250.0, -120.02227153656361)
+[04:10:07] [Server thread/INFO]: Guerra01 joined the game
+[04:10:18] [Server thread/INFO]: [Guerra: Teleported Guerra to Guerra01]
+[04:10:50] [Server thread/INFO]: [Guerra: Marked chunk [15, -8] in minecraft:the_nether to be force loaded]
+[04:12:34] [Server thread/INFO]: [Guerra: Set own game mode to Spectator Mode]
+[04:12:42] [Server thread/INFO]: [Guerra: Set own game mode to Survival Mode]
+[04:12:52] [Server thread/INFO]: [Guerra: Set own game mode to Spectator Mode]
+[04:13:03] [Server thread/INFO]: [Guerra: Set own game mode to Survival Mode]
+[04:13:16] [Server thread/INFO]: [Guerra: Set own game mode to Spectator Mode]
+[04:13:44] [Server thread/INFO]: [Guerra: Teleported Guerra to Guerra02]
+[04:13:49] [Server thread/INFO]: [Guerra: Set own game mode to Survival Mode]
+[04:14:26] [Server thread/INFO]: [Guerra: Marked chunk [7, -4] in minecraft:overworld to be force loaded]
+[04:14:39] [Server thread/INFO]: [Guerra: Marked chunk [123, -60] in minecraft:overworld to be force loaded]
+[04:14:46] [Server thread/INFO]: [Guerra: Marked chunk [124, -60] in minecraft:overworld to be force loaded]
+[04:14:53] [Server thread/INFO]: [Guerra: Teleported Guerra to Guerra01]
+[04:15:32] [Server thread/INFO]: [Guerra: Unmarked all force loaded chunks in minecraft:the_nether]
+[04:15:39] [Server thread/INFO]: [Guerra: Marked chunk [15, -8] in minecraft:the_nether to be force loaded]
+[04:16:38] [Server thread/INFO]: [Guerra: Teleported Guerra to Guerra02]
+[04:16:43] [Server thread/INFO]: Guerra01 lost connection: Disconnected
+[04:16:43] [Server thread/INFO]: Guerra01 left the game
+[04:16:58] [Server thread/INFO]: Guerra01[/26.222.123.117:21463] logged in with entity id 1333580 at (249.57026821560265, 250.0, -120.08844575311346)
+[04:16:58] [Server thread/INFO]: Guerra01 joined the game
+[04:18:55] [Server thread/INFO]: [Guerra: Made Guerra01 a server operator]
+[04:18:58] [Server thread/INFO]: [Guerra: Made Guerra02 a server operator]
+[04:19:41] [Server thread/INFO]: [Guerra: Displaying particle minecraft:firework]
+[04:19:46] [Server thread/INFO]: [Guerra: Displaying particle minecraft:firework]
+[04:19:52] [Server thread/INFO]: [Guerra: Displaying particle minecraft:firework]
+[04:20:35] [Server thread/INFO]: [Guerra: Teleported Guerra to 777.500000, 200.000000, 0.500000]
+[04:21:03] [Server thread/INFO]: [Guerra: Set the world spawn point to 792, 84, 9 [0.0]]
+[04:32:34] [Server thread/INFO]: [Guerra: Set the time to 1000]
+[04:35:36] [Server thread/INFO]: [Guerra: Successfully cloned 15 block(s)]
+[04:38:35] [Server thread/INFO]: [Guerra: Successfully cloned 17 block(s)]
+[04:39:51] [Server thread/INFO]: [Guerra: Successfully cloned 63 block(s)]
+[04:40:05] [Server thread/INFO]: [Guerra: Successfully cloned 63 block(s)]
+[04:40:14] [Server thread/INFO]: [Guerra: Successfully cloned 63 block(s)]
+[04:41:19] [Server thread/INFO]: [Guerra: Teleported Guerra to Guerra01]
+[04:41:56] [Server thread/INFO]: [Guerra: Teleported Guerra to Guerra02]
+[04:42:06] [Server thread/INFO]: [Guerra: Teleported Guerra to 777.500000, 200.000000, 0.500000]
+[04:44:04] [Server thread/INFO]: [Guerra: Set the time to 1000]
+[04:44:07] [Server thread/INFO]: [Guerra: Set the weather to clear]
+[04:44:17] [Server thread/INFO]: Locating element minecraft:desert took 293 ms
+[04:44:20] [Server thread/INFO]: [Guerra: Teleported Guerra to -422.500000, 90.000000, 1269.500000]
+[04:44:52] [Server thread/INFO]: [Guerra: Teleported Guerra to 777.500000, 200.000000, 0.500000]
+[04:57:37] [Server thread/INFO]: [Guerra: Set the time to 1000]
+[05:00:34] [Server thread/INFO]: Locating element minecraft:ice_spikes took 1294 ms
+[05:00:38] [Server thread/INFO]: [Guerra: Teleported Guerra to 3519.500000, 89.000000, -2626.500000]
+[05:01:00] [Server thread/INFO]: Villager coj['Villager'/1366991, l='ServerLevel[world]', x=3371.28, y=63.50, z=-2689.63] died, message: 'Villager suffocated in a wall'
+[05:02:27] [Server thread/INFO]: [Guerra: Teleported Guerra to 777.500000, 200.000000, 0.500000]
+[05:07:47] [Server thread/INFO]: [Guerra: Set the time to 1000]
+[05:11:09] [Server thread/INFO]: [Guerra: Successfully cloned 137 block(s)]
+[05:14:17] [Server thread/INFO]: [Guerra: Successfully cloned 8 block(s)]
+[05:18:13] [Server thread/INFO]: [Guerra: Gamerule randomTickSpeed is now set to: 500]
+[05:18:23] [Server thread/INFO]: [Guerra: Gamerule randomTickSpeed is now set to: 1]
+[05:19:05] [Server thread/INFO]: [Guerra: Gamerule randomTickSpeed is now set to: 500]
+[05:19:08] [Server thread/INFO]: [Guerra: Set the time to 1000]
+[05:19:20] [Server thread/INFO]: [Guerra: Gamerule randomTickSpeed is now set to: 1]
+[05:20:30] [Server thread/INFO]: [Guerra: Gamerule randomTickSpeed is now set to: 500]
+[05:20:40] [Server thread/INFO]: [Guerra: Gamerule randomTickSpeed is now set to: 1]
+[05:21:06] [Server thread/INFO]: [Guerra: Gamerule randomTickSpeed is now set to: 500]
+[05:21:49] [Server thread/INFO]: [Guerra: Gamerule randomTickSpeed is now set to: 1]
+[05:22:30] [Server thread/INFO]: [Guerra: Gamerule randomTickSpeed is now set to: 500]
+[05:23:07] [Server thread/INFO]: [Guerra: Gamerule randomTickSpeed is now set to: 1]
+[05:24:12] [Server thread/INFO]: [Guerra: Gamerule randomTickSpeed is now set to: 500]
+[05:25:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[05:26:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
+[05:26:32] [Server thread/INFO]: [Guerra: Gamerule randomTickSpeed is now set to: 100]
+[05:30:10] [Server thread/INFO]: [Guerra: Set the time to 1000]
+[05:33:58] [Server thread/INFO]: [Guerra: Successfully cloned 390 block(s)]
+[05:35:11] [Server thread/INFO]: [Guerra: Successfully cloned 390 block(s)]
+[05:35:39] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=839, y=91, z=44} ji{x=839, y=90, z=45}
+[05:39:29] [Server thread/INFO]: [Guerra: Gamerule randomTickSpeed is now set to: 1]
+[05:40:39] [Server thread/INFO]: [Guerra: Set the time to 1000]
+[05:47:24] [Server thread/INFO]: [Guerra: Gamerule randomTickSpeed is now set to: 500]
+[05:48:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
+[05:49:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[05:50:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[05:50:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[05:51:02] [Server thread/INFO]: [Guerra: Set the time to 1000]
+[05:51:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[05:51:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[05:51:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[05:52:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[05:52:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[05:52:42] [Server thread/INFO]: [Guerra: Gamerule randomTickSpeed is now set to: 250]
+[06:02:29] [Server thread/INFO]: [Guerra: Set the time to 1000]
+[06:09:44] [Server thread/WARN]: Guerra moved wrongly!
+[06:09:44] [Server thread/WARN]: Guerra moved wrongly!
+[06:11:40] [Server thread/INFO]: Villager coj['Villager'/1368905, l='ServerLevel[world]', x=709.86, y=90.00, z=28.21] died, message: 'Villager was squished too much'
+[06:12:28] [Server thread/INFO]: [Guerra: Gamerule randomTickSpeed is now set to: 1]
+[06:12:30] [Server thread/INFO]: [Guerra: Set the time to 1000]
+[06:12:31] [Server thread/INFO]: Villager coj['Villager'/1368916, l='ServerLevel[world]', x=709.81, y=90.00, z=28.26] died, message: 'Villager was squished too much'
+[06:13:34] [Server thread/INFO]: Villager coj['Villager'/1438105, l='ServerLevel[world]', x=710.25, y=90.00, z=28.14] died, message: 'Villager was squished too much'
+[06:13:53] [Server thread/INFO]: Villager coj['Villager'/1438068, l='ServerLevel[world]', x=709.81, y=90.00, z=28.22] died, message: 'Villager was squished too much'
+[06:13:59] [Server thread/INFO]: Villager coj['Villager'/1438084, l='ServerLevel[world]', x=709.90, y=90.00, z=28.22] died, message: 'Villager was squished too much'
+[06:14:12] [Server thread/INFO]: Villager coj['Villager'/1438101, l='ServerLevel[world]', x=709.68, y=90.00, z=28.20] died, message: 'Villager was squished too much'
+[06:14:17] [Server thread/INFO]: Villager coj['Villager'/1438103, l='ServerLevel[world]', x=709.47, y=90.00, z=27.46] died, message: 'Villager was squished too much'
+[06:14:23] [Server thread/INFO]: Villager coj['Villager'/1438104, l='ServerLevel[world]', x=709.80, y=90.00, z=28.15] died, message: 'Villager was squished too much'
+[06:15:15] [Server thread/INFO]: Villager coj['Villager'/1438075, l='ServerLevel[world]', x=710.16, y=90.00, z=28.24] died, message: 'Villager was squished too much'
+[06:15:45] [Server thread/INFO]: Villager coj['Villager'/1438078, l='ServerLevel[world]', x=710.14, y=90.00, z=28.15] died, message: 'Villager was squished too much'
+[06:15:53] [Server thread/INFO]: [Guerra: Gamerule randomTickSpeed is now set to: 500]
+[06:16:11] [Server thread/INFO]: Villager coj['Villager'/1438100, l='ServerLevel[world]', x=710.42, y=90.00, z=27.55] died, message: 'Villager was squished too much'
+[06:16:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[06:16:37] [Server thread/INFO]: Villager coj['Villager'/1438090, l='ServerLevel[world]', x=709.89, y=90.00, z=28.17] died, message: 'Villager was squished too much'
+[06:16:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[06:16:48] [Server thread/INFO]: Villager coj['Villager'/1438081, l='ServerLevel[world]', x=709.80, y=90.00, z=28.16] died, message: 'Villager was squished too much'
+[06:17:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
+[06:17:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[06:17:38] [Server thread/INFO]: Villager coj['Villager'/1438116, l='ServerLevel[world]', x=709.84, y=90.00, z=28.22] died, message: 'Villager was squished too much'
+[06:17:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[06:17:52] [Server thread/INFO]: Villager coj['Villager'/1438093, l='ServerLevel[world]', x=710.40, y=90.00, z=27.58] died, message: 'Villager was squished too much'
+[06:18:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[06:18:09] [Server thread/INFO]: Villager coj['Villager'/1438102, l='ServerLevel[world]', x=709.84, y=90.00, z=28.20] died, message: 'Villager was squished too much'
+[06:18:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[06:18:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[06:19:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[06:19:14] [Server thread/INFO]: Villager coj['Villager'/1438107, l='ServerLevel[world]', x=709.84, y=90.00, z=28.16] died, message: 'Villager was squished too much'
+[06:19:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[06:19:22] [Server thread/INFO]: Villager coj['Villager'/1438097, l='ServerLevel[world]', x=709.90, y=90.00, z=28.15] died, message: 'Villager was squished too much'
+[06:19:26] [Server thread/INFO]: Villager coj['Villager'/1438076, l='ServerLevel[world]', x=709.82, y=90.00, z=28.37] died, message: 'Villager was squished too much'
+[06:19:28] [Server thread/INFO]: Villager coj['Villager'/1438096, l='ServerLevel[world]', x=709.87, y=90.00, z=28.18] died, message: 'Villager was squished too much'
+[06:19:30] [Server thread/INFO]: Villager coj['Villager'/1438098, l='ServerLevel[world]', x=709.86, y=90.00, z=28.31] died, message: 'Villager was squished too much'
+[06:19:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[06:19:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[06:20:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2225ms or 44 ticks behind
+[06:20:11] [Server thread/INFO]: Villager coj['Villager'/1438088, l='ServerLevel[world]', x=709.88, y=90.00, z=28.24] died, message: 'Villager was squished too much'
+[06:20:17] [Server thread/INFO]: Villager coj['Villager'/1438069, l='ServerLevel[world]', x=709.88, y=90.00, z=28.26] died, message: 'Villager was squished too much'
+[06:20:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2112ms or 42 ticks behind
+[06:20:36] [Server thread/INFO]: Villager coj['Villager'/1438067, l='ServerLevel[world]', x=709.88, y=90.00, z=28.10] died, message: 'Villager was squished too much'
+[06:20:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2611ms or 52 ticks behind
+[06:21:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2410ms or 48 ticks behind
+[06:21:06] [Server thread/INFO]: [Guerra: Gamerule randomTickSpeed is now set to: 1000]
+[06:21:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9403ms or 188 ticks behind
+[06:21:42] [Server thread/INFO]: [Guerra: Gamerule randomTickSpeed is now set to: 500]
+[06:21:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8157ms or 163 ticks behind
+[06:22:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2432ms or 48 ticks behind
+[06:22:20] [Server thread/INFO]: Villager coj['Villager'/1438094, l='ServerLevel[world]', x=710.46, y=90.00, z=27.59] died, message: 'Villager was squished too much'
+[06:22:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2616ms or 52 ticks behind
+[06:22:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2364ms or 47 ticks behind
+[06:22:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2313ms or 46 ticks behind
+[06:23:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2247ms or 44 ticks behind
+[06:23:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2156ms or 43 ticks behind
+[06:23:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[06:24:07] [Server thread/INFO]: Villager coj['Villager'/1438113, l='ServerLevel[world]', x=709.88, y=90.00, z=28.12] died, message: 'Villager was squished too much'
+[06:24:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2154ms or 43 ticks behind
+[06:24:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2109ms or 42 ticks behind
+[06:24:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[06:25:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2066ms or 41 ticks behind
+[06:25:09] [Server thread/INFO]: Villager coj['Villager'/1438099, l='ServerLevel[world]', x=709.59, y=90.00, z=28.11] died, message: 'Villager was squished too much'
+[06:25:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2254ms or 45 ticks behind
+[06:25:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[06:25:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
+[06:26:00] [Server thread/INFO]: Villager coj['Villager'/1438114, l='ServerLevel[world]', x=710.16, y=90.00, z=28.16] died, message: 'Villager was squished too much'
+[06:26:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[06:26:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[06:26:49] [Server thread/INFO]: [Guerra: Set the time to 1000]
+[06:26:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[06:27:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2464ms or 49 ticks behind
+[06:27:42] [Server thread/INFO]: Villager coj['Villager'/1438110, l='ServerLevel[world]', x=709.81, y=90.00, z=27.80] died, message: 'Villager was squished too much'
+[06:27:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
+[06:28:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2177ms or 43 ticks behind
+[06:28:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2161ms or 43 ticks behind
+[06:28:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2232ms or 44 ticks behind
+[06:28:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2374ms or 47 ticks behind
+[06:29:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2171ms or 43 ticks behind
+[06:29:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2149ms or 42 ticks behind
+[06:29:35] [Server thread/INFO]: [Guerra: Gamerule randomTickSpeed is now set to: 1]
+[07:26:56] [Server thread/INFO]: Guerra lost connection: Disconnected
+[07:26:56] [Server thread/INFO]: Guerra left the game
+[07:27:14] [Server thread/INFO]: Guerra02 lost connection: Disconnected
+[07:27:14] [Server thread/INFO]: Guerra02 left the game
+[07:27:25] [Server thread/INFO]: Guerra01 lost connection: Disconnected
+[07:27:25] [Server thread/INFO]: Guerra01 left the game
+[07:28:25] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[08:04:24] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[08:04:24] [Server thread/INFO]: break<--[HERE]
+[08:04:27] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[08:04:27] [Server thread/INFO]: <--[HERE]
+[08:04:28] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[08:04:28] [Server thread/INFO]: <--[HERE]
+[08:04:29] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[08:04:29] [Server thread/INFO]: <--[HERE]
+[08:04:30] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[08:04:30] [Server thread/INFO]: <--[HERE]
+[08:04:31] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[08:04:31] [Server thread/INFO]: <--[HERE]
+[08:04:31] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[08:04:31] [Server thread/INFO]: <--[HERE]
+[08:04:31] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[08:04:31] [Server thread/INFO]: <--[HERE]
+[08:04:31] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[08:04:31] [Server thread/INFO]: <--[HERE]
+[08:04:31] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[08:04:31] [Server thread/INFO]: <--[HERE]
+[08:04:31] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[08:04:31] [Server thread/INFO]: <--[HERE]
+[08:04:50] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[08:04:50] [Server thread/INFO]: pause<--[HERE]
+[08:05:20] [Server thread/INFO]: Stopping the server
+[08:05:20] [Server thread/INFO]: Stopping server
+[08:05:20] [Server thread/INFO]: Saving players
+[08:05:20] [Server thread/INFO]: Saving worlds
+[08:05:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[08:05:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[08:05:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[08:05:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08:05:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08:05:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08:05:20] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
